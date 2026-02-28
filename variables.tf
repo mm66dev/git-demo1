@@ -15,5 +15,5 @@ variable "password" {
 
 variable "role" {
     type = string
-    default = "SYSADMIN"
+    default = "ACCOUNTADMIN"
 }
